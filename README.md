@@ -2,33 +2,23 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Ayak Manna GitHub Profile" width="100%">
+    <img src="./dark.svg" alt="Ayak Manna — AI Researcher & Trainee" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <strong>AI Researcher & Trainee · AI/ML Developer · Full-Stack Developer</strong>
+  <a href="https://github.com/Ayak-Here"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://ayak.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ayak-manna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/mr_ayak7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/ayak_manna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<p align="center">
-  Building practical AI systems, intelligent applications, and full-stack projects.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ayak-Here">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://ayak.vercel.app">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ayak-manna">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/mr_ayak7">X</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/ayak_manna">Instagram</a>
-</p>
+<p align="center"><strong>AI Researcher & Trainee · AI/ML Developer · Full-Stack Developer</strong><br>Building practical AI systems, intelligent applications, and full-stack projects.</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm **Ayak Manna**, a CSE-AIML graduate focused on **Artificial Intelligence, Machine Learning, Generative AI, backend engineering, and full-stack application development**.
 
@@ -36,52 +26,94 @@ I enjoy turning ideas into working software — from machine learning systems an
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 ComicCrafter AI
+
 AI-powered comic generation platform combining language models, image generation, and full-stack development.
 
-`Python` `FastAPI` `Next.js` `Groq` `Hugging Face`
+**Tech:** `Python` `FastAPI` `Next.js` `Groq` `Hugging Face`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🩺 HealthPartner
+
 Early disease prediction system using machine learning for healthcare-oriented risk analysis and explainability.
 
-`Python` `Random Forest` `CNN` `Streamlit` `SHAP`
+**Tech:** `Python` `Random Forest` `CNN` `Streamlit` `SHAP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 Study Buddy
+
 AI-powered topic explanation application designed to make technical concepts easier to understand.
 
-`Python` `Streamlit` `Groq`
+**Tech:** `Python` `Streamlit` `Groq`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 My Portfolio
+
 Personal portfolio website showcasing projects and technical work.
 
-`JavaScript` `Web Development`
+**Tech:** `JavaScript` `Web Development`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Stack
+## 🛠️ Technology Stack
 
-| Area | Technologies |
-|---|---|
-| **Languages** | Python · Java · C · C++ · JavaScript · TypeScript |
-| **AI / ML** | Machine Learning · Deep Learning · Generative AI · LLMs · Computer Vision · NLP |
-| **Development** | FastAPI · Next.js · React · Tailwind CSS · REST APIs |
-| **Data & Tools** | PostgreSQL · MySQL · Git · GitHub · Streamlit · VS Code |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Deep_Learning-EC4899?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Generative_AI-06B6D4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Computer_Vision-F97316?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayak-Here&show_icons=true&hide_border=true&theme=transparent" alt="Ayak Manna GitHub Stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./activity-light.svg">
+    <img src="./activity-dark.svg" alt="Ayak Manna GitHub Activity" width="100%">
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayak-Here&layout=compact&hide_border=true&theme=transparent" alt="Ayak Manna Top Languages">
-</p>
-
-### Contribution Graph
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -93,18 +125,14 @@ Personal portfolio website showcasing projects and technical work.
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <p align="center">
-  <a href="https://ayak.vercel.app">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ayak-manna">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/mr_ayak7">X</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/ayak_manna">Instagram</a>
+  <a href="https://github.com/Ayak-Here"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://ayak.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ayak-manna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/mr_ayak7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/ayak_manna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <sub>Build · Learn · Experiment · Ship</sub>
-</p>
+<p align="center"><sub>Build · Learn · Experiment · Ship</sub></p>
