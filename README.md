@@ -16,130 +16,156 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I'm Ayak Manna 👋</h1>
+<h2 align="center">Ayak Manna</h2>
 
 <p align="center">
   <strong>AI Researcher & Trainee · AI/ML Developer · Full-Stack Developer</strong>
 </p>
 
 <p align="center">
-  Building practical AI systems, intelligent applications, and full-stack projects.
+  I build AI-powered applications and full-stack systems while exploring practical machine learning and generative AI.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ayak-Here">GitHub</a> ·
-  <a href="https://ayak.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/ayak-manna">LinkedIn</a> ·
-  <a href="https://x.com/mr_ayak7">X</a> ·
+  <a href="https://github.com/Ayak-Here">GitHub</a>
+  ·
+  <a href="https://ayak.vercel.app">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/ayak-manna">LinkedIn</a>
+  ·
+  <a href="https://x.com/mr_ayak7">X</a>
+  ·
   <a href="https://www.instagram.com/ayak_manna">Instagram</a>
 </p>
 
 ---
 
-## `./about.sh`
-
-I'm **Ayak Manna**, a CSE-AIML graduate from **Brainware University**, currently working as an **AI Researcher and Trainee**.
-
-My main interests are **Artificial Intelligence, Machine Learning, Generative AI, backend development, and full-stack application development**.
-
-I enjoy turning ideas into working software — from machine learning systems and AI-powered applications to complete web platforms.
+## `~/about`
 
 ```text
-$ whoami
+NAME        → Ayak Manna
+BACKGROUND  → B.Tech CSE — AI/ML
+ROLE        → AI Researcher & Trainee
+LOCATION    → Kolkata, West Bengal
 
-Ayak Manna
-
-$ focus
-
-AI / ML
-Generative AI
-Full-Stack Development
-Backend Engineering
-Intelligent Applications
+FOCUS       → Artificial Intelligence
+              Machine Learning
+              Generative AI
+              Full-Stack Development
+              Intelligent Applications
 ```
+
+I enjoy taking an idea from an early concept to a working application — combining machine learning, backend systems, APIs, databases, and modern web interfaces.
 
 ---
 
-## `./projects`
+## `~/projects`
 
 ### 🤖 ComicCrafter AI
 
-AI-powered comic generation platform combining language models, image generation, and a modern full-stack architecture.
+AI-powered comic generation platform combining language models, image generation, FastAPI, and Next.js.
 
-**Stack:** Python · FastAPI · Next.js · Groq · Hugging Face
+`Python` `FastAPI` `Next.js` `Groq` `Hugging Face`
 
 ### 🩺 HealthPartner
 
-Early disease prediction system using machine learning for healthcare-oriented risk analysis.
+Machine-learning based early disease prediction system with healthcare-oriented prediction and explainability features.
 
-**Stack:** Python · Machine Learning · Random Forest · CNN · Streamlit · SHAP
+`Python` `Machine Learning` `Random Forest` `CNN` `Streamlit` `SHAP`
 
 ### 📚 Study Buddy
 
-AI-powered topic explanation application designed to make learning concepts easier through generative AI.
+AI-powered topic explanation application built to help users understand technical concepts through generative AI.
 
-**Stack:** Python · Streamlit · Groq
+`Python` `Streamlit` `Groq`
 
 ### 🌐 My Portfolio
 
-Personal portfolio website showcasing my projects, technical work, and development journey.
+Personal portfolio website for presenting projects, technical work, and development experience.
 
-**Stack:** JavaScript · Web Development
+`JavaScript` `Web Development`
 
 ---
 
-## `./stack`
+## `~/stack`
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Languages
 
-`Python` `Java` `C` `C++` `JavaScript` `TypeScript`
+`Python`
+`Java`
+`C` · `C++`
+`JavaScript` · `TypeScript`
 
 ### AI / ML
 
-`Machine Learning` `Deep Learning` `Generative AI` `LLMs` `Computer Vision` `NLP`
+`Machine Learning`
+`Deep Learning`
+`Generative AI`
+`LLMs`
+`Computer Vision`
+`NLP`
 
-### Backend
+</td>
 
-`FastAPI` `Python` `REST APIs`
+<td valign="top" width="50%">
 
-### Frontend
+### Development
 
-`Next.js` `React` `Tailwind CSS`
+`FastAPI`
+`Next.js` · `React`
+`Tailwind CSS`
+`REST APIs`
 
-### Databases
+### Data & Tools
 
-`PostgreSQL` `MySQL`
+`PostgreSQL`
+`MySQL`
+`Git` · `GitHub`
+`Streamlit`
+`VS Code`
 
-### Tools
-
-`Git` `GitHub` `VS Code` `Streamlit`
+</td>
+</tr>
+</table>
 
 ---
 
-## `./currently_building`
+## `~/currently-building`
 
 ```text
-┌──────────────────────────────────────────────┐
-│ CURRENT WORK                                 │
-├──────────────────────────────────────────────┤
-│ AI-powered applications                     │
-│ Machine Learning systems                     │
-│ Full-stack platforms                         │
-│ Generative AI projects                       │
-│ AI research & experimentation                │
-└──────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│  CURRENT WORK                                              │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  → AI-powered applications                                 │
+│  → Machine Learning systems                                │
+│  → Generative AI projects                                  │
+│  → Full-stack platforms                                    │
+│  → AI research & experimentation                           │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `./github`
+## `~/github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayak-Here&show_icons=true&hide_border=true&theme=transparent" alt="Ayak's GitHub Stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ayak-Here&show_icons=true&hide_border=true&theme=transparent"
+    alt="Ayak Manna GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayak-Here&layout=compact&hide_border=true&theme=transparent" alt="Ayak's Top Languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayak-Here&layout=compact&hide_border=true&theme=transparent"
+    alt="Ayak Manna Top Languages"
+  />
 </p>
 
 ---
@@ -166,15 +192,18 @@ Personal portfolio website showcasing my projects, technical work, and developme
 
 ---
 
-## `./connect`
+## `~/connect`
 
 <p align="center">
-  <a href="https://ayak.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/ayak-manna">LinkedIn</a> ·
-  <a href="https://x.com/mr_ayak7">X</a> ·
+  <a href="https://ayak.vercel.app">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/ayak-manna">LinkedIn</a>
+  ·
+  <a href="https://x.com/mr_ayak7">X</a>
+  ·
   <a href="https://www.instagram.com/ayak_manna">Instagram</a>
 </p>
 
 <p align="center">
-  <sub>Building, learning, experimenting, and shipping.</sub>
+  <sub>Build → Learn → Experiment → Ship</sub>
 </p>
