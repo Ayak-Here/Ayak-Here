@@ -1,10 +1,17 @@
-\
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Ayak Manna — AI Researcher, AI/ML Developer and Full-Stack Developer" width="100%">
+    <img src="./dark.svg" alt="Ayak Manna GitHub Profile" width="100%">
   </picture>
+</p>
+
+<p align="center">
+  <strong>AI Researcher & Trainee · AI/ML Developer · Full-Stack Developer</strong>
+</p>
+
+<p align="center">
+  Building practical AI systems, intelligent applications, and full-stack projects.
 </p>
 
 <p align="center">
@@ -21,130 +28,50 @@
 
 ---
 
-## `~/profile`
+## About Me
 
-```text
-NAME        → Ayak Manna
-ROLE        → AI Researcher & Trainee
-BACKGROUND  → B.Tech CSE — AI/ML
+I'm **Ayak Manna**, a CSE-AIML graduate focused on **Artificial Intelligence, Machine Learning, Generative AI, backend engineering, and full-stack application development**.
 
-FOCUS       → Artificial Intelligence
-              Machine Learning
-              Generative AI
-              Full-Stack Development
-
-APPROACH    → Build · Learn · Experiment · Ship
-```
-
-I build practical AI-powered applications and full-stack systems, combining machine learning, backend engineering, APIs, databases, and modern web technologies.
+I enjoy turning ideas into working software — from machine learning systems and AI-powered applications to complete web platforms.
 
 ---
 
-## `~/featured`
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## Featured Projects
 
 ### 🤖 ComicCrafter AI
+AI-powered comic generation platform combining language models, image generation, and full-stack development.
 
-AI-powered comic generation platform combining language models, image generation, and a modern full-stack architecture.
-
-**Stack**
-
-`Python` `FastAPI` `Next.js`  
-`Groq` `Hugging Face`
-
-</td>
-<td width="50%" valign="top">
+`Python` `FastAPI` `Next.js` `Groq` `Hugging Face`
 
 ### 🩺 HealthPartner
-
 Early disease prediction system using machine learning for healthcare-oriented risk analysis and explainability.
 
-**Stack**
-
-`Python` `Random Forest` `CNN`  
-`Streamlit` `SHAP`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+`Python` `Random Forest` `CNN` `Streamlit` `SHAP`
 
 ### 📚 Study Buddy
-
 AI-powered topic explanation application designed to make technical concepts easier to understand.
-
-**Stack**
 
 `Python` `Streamlit` `Groq`
 
-</td>
-<td width="50%" valign="top">
-
 ### 🌐 My Portfolio
-
-Personal portfolio website showcasing projects, technical work, and development journey.
-
-**Stack**
+Personal portfolio website showcasing projects and technical work.
 
 `JavaScript` `Web Development`
 
-</td>
-</tr>
-</table>
+---
+
+## Technical Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · Java · C · C++ · JavaScript · TypeScript |
+| **AI / ML** | Machine Learning · Deep Learning · Generative AI · LLMs · Computer Vision · NLP |
+| **Development** | FastAPI · Next.js · React · Tailwind CSS · REST APIs |
+| **Data & Tools** | PostgreSQL · MySQL · Git · GitHub · Streamlit · VS Code |
 
 ---
 
-## `~/engineering`
-
-**Languages**
-
-`Python` `Java` `C` `C++` `JavaScript` `TypeScript`
-
-**AI / ML**
-
-`Machine Learning` `Deep Learning` `Generative AI` `LLMs` `Computer Vision` `NLP`
-
-**Frontend**
-
-`Next.js` `React` `Tailwind CSS`
-
-**Backend**
-
-`FastAPI` `Python` `REST APIs`
-
-**Data**
-
-`PostgreSQL` `MySQL`
-
-**Tools**
-
-`Git` `GitHub` `Streamlit` `VS Code`
-
----
-
-## `~/currently-building`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  CURRENT WORK                                                │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  → AI-powered applications                                   │
-│  → Machine Learning systems                                  │
-│  → Generative AI projects                                    │
-│  → Full-stack platforms                                      │
-│  → AI research & experimentation                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `~/activity`
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayak-Here&show_icons=true&hide_border=true&theme=transparent" alt="Ayak Manna GitHub Stats">
@@ -154,7 +81,7 @@ Personal portfolio website showcasing projects, technical work, and development 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayak-Here&layout=compact&hide_border=true&theme=transparent" alt="Ayak Manna Top Languages">
 </p>
 
-<h3 align="center">CONTRIBUTIONS</h3>
+### Contribution Graph
 
 <p align="center">
   <picture>
@@ -166,7 +93,7 @@ Personal portfolio website showcasing projects, technical work, and development 
 
 ---
 
-## `~/connect`
+## Connect
 
 <p align="center">
   <a href="https://ayak.vercel.app">Portfolio</a>
@@ -179,5 +106,5 @@ Personal portfolio website showcasing projects, technical work, and development 
 </p>
 
 <p align="center">
-  <sub>Building intelligent systems, one project at a time.</sub>
+  <sub>Build · Learn · Experiment · Ship</sub>
 </p>
