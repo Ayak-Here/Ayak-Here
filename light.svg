@@ -1,0 +1,285 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Ayak Manna - AI Researcher, AI/ML Developer and Full-Stack Developer">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"></stop>
+      <stop offset="55%" stop-color="#F8FAFC"></stop>
+      <stop offset="100%" stop-color="#EEF6FF"></stop>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563EB"></stop>
+      <stop offset="50%" stop-color="#06B6D4"></stop>
+      <stop offset="100%" stop-color="#10B981"></stop>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity=".13"></stop>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"></stop>
+    </radialGradient>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="10"></feGaussianBlur>
+    </filter>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#64748B" stroke-opacity=".08" stroke-width="1"></path>
+    </pattern>
+
+    <clipPath id="frame">
+      <rect x="10" y="10" width="1160" height="590" rx="24"></rect>
+    </clipPath>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1180" height="610" fill="#F8FAFC"></rect>
+
+  <g clip-path="url(#frame)">
+
+    <rect x="10" y="10" width="1160" height="590" rx="24" fill="url(#bg)"></rect>
+
+    <rect x="10" y="10" width="1160" height="590" rx="24" fill="url(#grid)"></rect>
+
+    <!-- Ambient light -->
+    <circle cx="970" cy="110" r="270" fill="url(#glow)" filter="url(#softGlow)">
+
+      <animate attributeName="opacity" values=".35;.65;.35" dur="8s" repeatCount="indefinite"></animate>
+
+    </circle>
+
+    <circle cx="170" cy="510" r="220" fill="#2563EB" opacity=".045" filter="url(#softGlow)">
+
+      <animate attributeName="opacity" values=".25;.5;.25" dur="10s" repeatCount="indefinite"></animate>
+
+    </circle>
+
+    <!-- Terminal header -->
+    <rect x="10" y="10" width="1160" height="52" fill="#FFFFFF" fill-opacity=".82"></rect>
+
+    <line x1="10" y1="62" x2="1170" y2="62" stroke="#CBD5E1" stroke-opacity=".9"></line>
+
+    <circle cx="34" cy="36" r="7" fill="#EF4444"></circle>
+
+    <circle cx="58" cy="36" r="7" fill="#F59E0B"></circle>
+
+    <circle cx="82" cy="36" r="7" fill="#22C55E"></circle>
+
+    <text x="112" y="42" fill="#475569" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="16">
+      ayak@profile:~$
+    </text>
+
+    <text x="1015" y="42" fill="#059669" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" letter-spacing="2">
+      ● ONLINE
+    </text>
+
+    <!-- Left panel -->
+    <rect x="32" y="82" width="425" height="494" rx="20" fill="#FFFFFF" fill-opacity=".68" stroke="#CBD5E1" stroke-opacity=".9"></rect>
+
+    <text x="58" y="116" fill="#0891B2" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" letter-spacing="3">
+      VISUAL.MAP
+    </text>
+
+    <line x1="58" y1="132" x2="431" y2="132" stroke="url(#accent)" stroke-opacity=".65"></line>
+
+    <!-- ASCII portrait -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#2563EB" text-anchor="middle">
+
+      <text x="244" y="180" opacity="0">
+        .·:+*#%%#*+:·.
+        <animate attributeName="opacity" values="0;1" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="191" opacity="0">
+        ·:+*#%%%%#*+:·
+        <animate attributeName="opacity" values="0;1" begin=".08s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="202" opacity="0">
+        :+*#%%%%%%#*+:
+        <animate attributeName="opacity" values="0;1" begin=".16s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="213" opacity="0">
+        +*#%%#@@#%%#*+
+        <animate attributeName="opacity" values="0;1" begin=".24s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="224" opacity="0">
+        *#%%#@....@#%%#*
+        <animate attributeName="opacity" values="0;1" begin=".32s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="235" opacity="0">
+        #%%@..·..·..@%%#
+        <animate attributeName="opacity" values="0;1" begin=".40s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="246" opacity="0">
+        %%@....++....@%%
+        <animate attributeName="opacity" values="0;1" begin=".48s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="257" opacity="0">
+        %%@....@@....@%%
+        <animate attributeName="opacity" values="0;1" begin=".56s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="268" opacity="0">
+        #%%@...@@...@%%#
+        <animate attributeName="opacity" values="0;1" begin=".64s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="279" opacity="0">
+        *#%%#..@@..#%%#*
+        <animate attributeName="opacity" values="0;1" begin=".72s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="290" opacity="0">
+        +*#%%#....#%%#*+
+        <animate attributeName="opacity" values="0;1" begin=".80s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="301" opacity="0">
+        :+*#%%%%%%#*+:
+        <animate attributeName="opacity" values="0;1" begin=".88s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="312" opacity="0">
+        ·:+*#%%%%#*+:·
+        <animate attributeName="opacity" values="0;1" begin=".96s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="323" opacity="0">
+        .·:+*####*+:·.
+        <animate attributeName="opacity" values="0;1" begin="1.04s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="334" opacity="0">
+        .·:+*######*+:·.
+        <animate attributeName="opacity" values="0;1" begin="1.12s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="345" opacity="0">
+        :+*##########*+:
+        <animate attributeName="opacity" values="0;1" begin="1.20s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="356" opacity="0">
+        +*############*+
+        <animate attributeName="opacity" values="0;1" begin="1.28s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+      <text x="244" y="367" opacity="0">
+        *##############*
+        <animate attributeName="opacity" values="0;1" begin="1.36s" dur=".7s" fill="freeze"></animate>
+      </text>
+
+    </g>
+
+    <!-- Scanline -->
+    <rect x="72" y="166" width="345" height="2" fill="#06B6D4" opacity=".18">
+
+      <animate attributeName="y" values="166;380;166" dur="5s" repeatCount="indefinite"></animate>
+
+    </rect>
+
+    <!-- Identity -->
+    <text x="244" y="414" text-anchor="middle" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="25" font-weight="700">
+      AYAK MANNA
+    </text>
+
+    <text x="244" y="443" text-anchor="middle" fill="#0891B2" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13">
+      AI RESEARCHER · AI/ML · FULL-STACK
+    </text>
+
+    <text x="244" y="476" text-anchor="middle" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">
+      building intelligent applications
+    </text>
+
+    <text x="244" y="498" text-anchor="middle" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">
+      with code, models &amp; curiosity
+    </text>
+
+    <text x="58" y="548" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">
+      ~/profile $ build --ship
+    </text>
+
+    <!-- Right panel -->
+    <rect x="481" y="82" width="667" height="494" rx="20" fill="#FFFFFF" fill-opacity=".70" stroke="#CBD5E1" stroke-opacity=".9"></rect>
+
+    <text x="515" y="116" fill="#0891B2" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" letter-spacing="3">
+      SYSTEM.INFO
+    </text>
+
+    <line x1="515" y1="132" x2="1115" y2="132" stroke="url(#accent)" stroke-opacity=".65"></line>
+
+    <text x="515" y="163" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">
+      ayak@profile:~$ ./profile.sh
+    </text>
+
+    <!-- Information -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">
+
+      <text x="515" y="202" fill="#64748B">NAME</text>
+      <text x="665" y="202" fill="#0F172A">Ayak Manna</text>
+
+      <text x="515" y="238" fill="#64748B">ROLE</text>
+      <text x="665" y="238" fill="#0891B2">AI Researcher &amp; Trainee</text>
+
+      <text x="515" y="274" fill="#64748B">EDUCATION</text>
+      <text x="665" y="274" fill="#0F172A">B.Tech CSE — AI/ML</text>
+
+      <text x="515" y="310" fill="#64748B">FOCUS</text>
+      <text x="665" y="310" fill="#0F172A">AI · ML · GenAI · Full-Stack</text>
+
+      <text x="515" y="346" fill="#64748B">BACKEND</text>
+      <text x="665" y="346" fill="#0F172A">Python · FastAPI · PostgreSQL</text>
+
+      <text x="515" y="382" fill="#64748B">FRONTEND</text>
+      <text x="665" y="382" fill="#0F172A">Next.js · React · TypeScript</text>
+
+      <text x="515" y="418" fill="#64748B">AI STACK</text>
+      <text x="665" y="418" fill="#0F172A">Machine Learning · LLMs · CNN</text>
+
+    </g>
+
+    <!-- Status -->
+    <rect x="515" y="449" width="600" height="52" rx="10" fill="#F8FAFC" fill-opacity=".9" stroke="#CBD5E1"></rect>
+
+    <circle cx="538" cy="475" r="5" fill="#10B981">
+
+      <animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"></animate>
+
+    </circle>
+
+    <text x="555" y="480" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">
+      STATUS
+    </text>
+
+    <text x="625" y="480" fill="#059669" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">
+      learning · building · shipping
+    </text>
+
+    <!-- Footer -->
+    <text x="515" y="537" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">
+      github.com/Ayak-Here
+    </text>
+
+    <text x="1115" y="537" text-anchor="end" fill="#0891B2" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">
+      [ PROFILE ONLINE ]
+    </text>
+
+    <!-- Animated border -->
+    <rect x="10" y="10" width="1160" height="590" rx="24" fill="none" stroke="url(#accent)" stroke-width="1" stroke-dasharray="180 980" opacity=".45">
+
+      <animate attributeName="stroke-dashoffset" from="0" to="-1160" dur="8s" repeatCount="indefinite"></animate>
+
+    </rect>
+
+  </g>
+
+  <rect x="10" y="10" width="1160" height="590" rx="24" fill="none" stroke="#CBD5E1" stroke-width="1.5"></rect>
+
+</svg>
