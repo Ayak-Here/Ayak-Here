@@ -32,53 +32,6 @@ I enjoy turning ideas into working software — from machine learning systems an
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 ComicCrafter AI
-
-AI-powered comic generation platform combining language models, image generation, and full-stack development.
-
-**Tech:** `Python` `FastAPI` `Next.js` `Groq` `Hugging Face`
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 HealthPartner
-
-Early disease prediction system using machine learning for healthcare-oriented risk analysis and explainability.
-
-**Tech:** `Python` `Random Forest` `CNN` `Streamlit` `SHAP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Study Buddy
-
-AI-powered topic explanation application designed to make technical concepts easier to understand.
-
-**Tech:** `Python` `Streamlit` `Groq`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 My Portfolio
-
-Personal portfolio website showcasing projects and technical work.
-
-**Tech:** `JavaScript` `Web Development`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Technology Stack
 
 <p align="center">
