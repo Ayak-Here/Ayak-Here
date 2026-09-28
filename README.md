@@ -20,6 +20,18 @@ I enjoy turning ideas into working software — from machine learning systems an
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayak-Here/github-snake/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayak-Here/github-snake/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/Ayak-Here/github-snake/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
+  </picture>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -104,16 +116,6 @@ Personal portfolio website showcasing projects and technical work.
     <source media="(prefers-color-scheme: dark)" srcset="./activity-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./activity-light.svg">
     <img src="./activity-dark.svg" alt="Ayak Manna GitHub Activity" width="100%">
-  </picture>
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayak-Here/github-snake/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayak-Here/github-snake/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/Ayak-Here/github-snake/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
   </picture>
 </p>
 
